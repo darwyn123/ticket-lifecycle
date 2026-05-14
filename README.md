@@ -58,7 +58,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Navigate to Tickets -> Click on the ticket under the Ticket column.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="864" height="334" alt="Open Ticket as John" src="https://github.com/user-attachments/assets/fa254027-6be2-4a77-a3e0-e4a6d694d2d7" />
 </p>
 
 - Select the Priority, Assign Department, Assigned To, and the SLA Plan accordingly to the ticket.
