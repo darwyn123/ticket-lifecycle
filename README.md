@@ -40,7 +40,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Issue Summary: Breif summary of the issue on issue title, and in the second field explain more the issue.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="762" height="782" alt="Create Ticket" src="https://github.com/user-attachments/assets/f36375d7-83ad-4200-a8c7-5d616e965170" />
 </p>
 
 <br />
