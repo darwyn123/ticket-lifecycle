@@ -61,11 +61,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="864" height="334" alt="Open Ticket as John" src="https://github.com/user-attachments/assets/fa254027-6be2-4a77-a3e0-e4a6d694d2d7" />
 </p>
 
-- Select the Priority, Assign Department, Assigned To, and the SLA Plan accordingly to the ticket.
+- Set the Priority, Assign Department, Assigned To, and the SLA Plan accordingly to the ticket.
 - In this example:
-    - Priority is set to High
+    - Priority is set to Emergency because all the teller systems are down.
       <p>
-<img <img width="864" height="421" alt="Update Priority" src="https://github.com/user-attachments/assets/262f96f5-d5b0-4b7b-b9df-f062691964fd" />
+<img <img width="864" height="421" alt="Update Priority" src="https://github.com/user-attachments/assets/3aa3777a-fd07-4b6f-918d-9f0ed45bb78c" />
 </p>
     - Assign Department is set to
     <p>
