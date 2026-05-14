@@ -63,7 +63,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Set the Priority, Assign Department, Assigned To, and the SLA Plan accordingly to the ticket.
 - In this example:
-    - Priority is set to Emergency because all the teller systems are down.
+    - Priority is set to "Emergency" because all the teller systems are down.
       <p>
 <img <img width="864" height="421" alt="Update Priority" src="https://github.com/user-attachments/assets/3aa3777a-fd07-4b6f-918d-9f0ed45bb78c" />
 </p>
