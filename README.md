@@ -80,10 +80,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="864" height="421" alt="Update SLA Plan" src="https://github.com/user-attachments/assets/c0bdd3f7-18a5-4290-8da8-c334aa482ebf" />
 </p>
 
-- Within the ticket tab, you can see the thread of any updates to the ticket and submit updates upon assignment. Once finished, click the orange Post Reply button and the ticket gets assigned to the appropriate department and your customer gets notified of this change.
+- Within the ticket tab, you can see the thread of any updates to the ticket and submit updates upon assignment. 
       
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="864" height="655" alt="Forum check" src="https://github.com/user-attachments/assets/72adc5c5-1f55-4a8f-980a-8cb109ac8ffd" />
 </p>
 
 <br />
