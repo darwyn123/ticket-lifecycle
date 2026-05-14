@@ -39,6 +39,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Help Topic: Select the help topic type
   - Issue Summary: Breif summary of the issue on issue title, and in the second field explain more the issue.
 
+- Click Create Ticket
+
 <p>
 <img <img width="762" height="782" alt="Create Ticket" src="https://github.com/user-attachments/assets/f36375d7-83ad-4200-a8c7-5d616e965170" />
 </p>
