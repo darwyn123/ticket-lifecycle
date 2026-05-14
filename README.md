@@ -93,7 +93,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Navigate to localhost/osTicket/scp/login.php, and log in as the Agent that will work on the ticket.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1018" height="613" alt="Jane log in" src="https://github.com/user-attachments/assets/c4d24da6-a7a9-4c2b-94f7-c01345ae09aa" />
 </p>
 
 - Once logged in, the Tickets window shows. It will show the ticket number, the last time it was updated, the subject, who submitted the ticket, priority level, and who it is assigned to. The Agent must click on the ticket number to open it so that they can begin working through the problem.
