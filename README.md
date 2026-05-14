@@ -52,7 +52,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Navigate to localhost/osTicket/scp/login.php, and log in as the administrator that will assign an Agent to work on the ticket created.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1024" height="600" alt="John Login" src="https://github.com/user-attachments/assets/1793d3d2-e253-45ea-9654-ad924f460628" />
 </p>
 
 - Navigate to Tickets -> Click on the ticket under the Ticket column.
