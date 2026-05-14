@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Open a Web Browser and navigate to localhost/osTicket/index.php, and click the blue Open a New Ticket button.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="762" height="444" alt="Blue Botton Login" src="https://github.com/user-attachments/assets/f37e445c-ad13-4481-8093-c6d26dbf149f" />
 </p>
 
 - Fill out the following:
