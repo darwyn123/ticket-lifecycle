@@ -67,17 +67,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
       <p>
 <img <img width="864" height="421" alt="Update Priority" src="https://github.com/user-attachments/assets/3aa3777a-fd07-4b6f-918d-9f0ed45bb78c" />
 </p>
-    - Assign Department is set to
+    - Assign Department to Support
     <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="864" height="421" alt="Update Department" src="https://github.com/user-attachments/assets/c8ede814-aea3-414b-9b41-3afd4e8388e6" />
 </p>
-    - Assigned To 
+    - Assigned To Agent Jane Doe
     <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="864" height="421" alt="Update Assign To" src="https://github.com/user-attachments/assets/ba2df420-8e6f-44b4-bba7-e60a4baf4c22" />
 </p>
-    - The SLA Plan is set to
+    - The SLA Plan is set to Sev-A (response/resolution time in 1 hour)
     <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="864" height="421" alt="Update SLA Plan" src="https://github.com/user-attachments/assets/c0bdd3f7-18a5-4290-8da8-c334aa482ebf" />
 </p>
 
 - Within the ticket tab, you can see the thread of any updates to the ticket and submit updates upon assignment. Once finished, click the orange Post Reply button and the ticket gets assigned to the appropriate department and your customer gets notified of this change.
