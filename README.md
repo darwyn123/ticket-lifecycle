@@ -96,10 +96,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="1018" height="613" alt="Jane log in" src="https://github.com/user-attachments/assets/c4d24da6-a7a9-4c2b-94f7-c01345ae09aa" />
 </p>
 
-- Once logged in, the Tickets window shows. It will show the ticket number, the last time it was updated, the subject, who submitted the ticket, priority level, and who it is assigned to. The Agent must click on the ticket number to open it so that they can begin working through the problem.
+- The Tickets window shows:
+   - The ticket number,
+   - The last time it was updated,
+   - The subject,
+   - Who submitted the ticket,
+   - Priority level
+   - Who it is assigned to.
+- Click on the ticket to open it, than begin working on issue.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="869" height="326" alt="Ticket Window Jane" src="https://github.com/user-attachments/assets/a0b1daf4-779b-43fc-afd8-63005fc5136d" />
 </p>
 
 - Once the ticket is opened, you can review all ticket items and the history of the ticket items. This includes who submitted the ticket, who assigned the ticket, and any other ticket activity. The bottom section is where you can leave a reply for the user who submitted the ticket and an internal note to notify management if the ticket has been resolved.
