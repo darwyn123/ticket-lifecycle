@@ -122,10 +122,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Resolution</h2>
 
-- Before the user presses the orange Post Reply button to send the message to the user, it is important to navigate to the Ticket Status drop-down menu and change the value from Open (current) to Closed.
+- Before the Agent presses the orange Post Reply button to send the message to the user, it is important to navigate to the Ticket Status and change the from Open (current) to Closed.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="869" height="701" alt="Closed" src="https://github.com/user-attachments/assets/3135e600-1dcd-4ca5-8f9b-89b89b4ce424" />
 </p>
 
 - Then, osTicket will take the Agent back to the Tickets tab. The Agent will then see a confirmation that the reply was posted successfully. As pictured below, ticket #325542 by Jane Doe is no longer showing in the Open tickets section. Additionally, there is a visual confirmation banner at the top that says Ticket #325542: Reply posted successfully.
