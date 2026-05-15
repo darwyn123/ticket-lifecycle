@@ -135,7 +135,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 - To view tickets that have been closed, Agents can:
-    - Navigate to Tickets -> Closed -> and then click the appropriate time frame that this ticket is from.
+    - Navigate to Tickets -> Closed -> and then click the appropriate time frame that the ticket is from.
 
 <p>
 <img <img width="844" height="266" alt="Check Closed Tickets" src="https://github.com/user-attachments/assets/bdb4f585-bd9d-4bc4-af8b-b1dd9a3e14b3" />
