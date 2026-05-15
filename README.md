@@ -128,16 +128,17 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="869" height="701" alt="Closed" src="https://github.com/user-attachments/assets/3135e600-1dcd-4ca5-8f9b-89b89b4ce424" />
 </p>
 
-- Then, osTicket will take the Agent back to the Tickets tab. The Agent will then see a confirmation that the reply was posted successfully. As pictured below, ticket #325542 by Jane Doe is no longer showing in the Open tickets section. Additionally, there is a visual confirmation banner at the top that says Ticket #325542: Reply posted successfully.
+- osTicket will take the Agent back to the Tickets tab. The Agent will then see a confirmation that the reply was posted successfully.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="869" height="272" alt="Oficially Closed" src="https://github.com/user-attachments/assets/40d8bf59-3164-44d2-934a-312a6f124625" />
 </p>
 
-- To view tickets that have been closed, Agents can navigate to Tickets > Closed > and then click the appropriate time frame that this ticket is from. From here, the Agent should see closed ticket in question.
+- To view tickets that have been closed, Agents can:
+    - Navigate to Tickets -> Closed -> and then click the appropriate time frame that this ticket is from.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="844" height="266" alt="Check Closed Tickets" src="https://github.com/user-attachments/assets/bdb4f585-bd9d-4bc4-af8b-b1dd9a3e14b3" />
 </p>
 
 <br />
