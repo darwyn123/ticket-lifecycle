@@ -116,10 +116,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="869" height="782" alt="Jane looking at history" src="https://github.com/user-attachments/assets/2e919fe4-8fb5-4fa3-9649-b3e2cafd37ef" />
 </p>
 
-- Once the Agent (Luke Skywalker) has reviewed all of the ticket details and identified a solution to the problem, the Agent can then use the Post Reply section to write a note to the user (Jane Doe) explaining everything, including the solution, in a professional manner.
+- Once you have identified a solution to the problem, you can then use the Post Reply section to write a note to the user explaining everything, including the solution.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="869" height="754" alt="Post Reply" src="https://github.com/user-attachments/assets/e4eb25d2-b9e2-44b3-8ebc-52825df8e758" />
 </p>
 
 
