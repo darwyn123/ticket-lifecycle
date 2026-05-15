@@ -80,12 +80,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img <img width="864" height="421" alt="Update SLA Plan" src="https://github.com/user-attachments/assets/c0bdd3f7-18a5-4290-8da8-c334aa482ebf" />
 </p>
 
-- Within the ticket tab, you can see the thread of any updates to the ticket and submit updates upon assignment. 
-      
-<p>
-<img <img width="864" height="655" alt="Forum check" src="https://github.com/user-attachments/assets/72adc5c5-1f55-4a8f-980a-8cb109ac8ffd" />
-</p>
-
 <br />
 
 <h2>Working the Issue</h2>
