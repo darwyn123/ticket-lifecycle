@@ -97,22 +97,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 - The Tickets window shows:
-   - The ticket number,
-   - The last time it was updated,
-   - The subject,
-   - Who submitted the ticket,
+   - The ticket number
+   - The last time it was updated
+   - The subject
+   - Who submitted the ticket
    - Priority level
-   - Who it is assigned to.
+   - Who it is assigned to
 - Click on the ticket to open it, than begin working on issue.
 
 <p>
 <img <img width="869" height="326" alt="Ticket Window Jane" src="https://github.com/user-attachments/assets/a0b1daf4-779b-43fc-afd8-63005fc5136d" />
 </p>
 
-- Once the ticket is opened, you can review all ticket items and the history of the ticket items. This includes who submitted the ticket, who assigned the ticket, and any other ticket activity. The bottom section is where you can leave a reply for the user who submitted the ticket and an internal note to notify management if the ticket has been resolved.
+- Once you open the ticket, you can review all ticket items and the history of the ticket items.
+- The bottom section is where you can leave a reply for the user who submitted the ticket and an internal note to notify management if the ticket has been resolved.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="869" height="782" alt="Jane looking at history" src="https://github.com/user-attachments/assets/2e919fe4-8fb5-4fa3-9649-b3e2cafd37ef" />
 </p>
 
 - Once the Agent (Luke Skywalker) has reviewed all of the ticket details and identified a solution to the problem, the Agent can then use the Post Reply section to write a note to the user (Jane Doe) explaining everything, including the solution, in a professional manner.
